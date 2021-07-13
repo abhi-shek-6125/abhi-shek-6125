@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Sharma
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning fundamentals of building nice aesthetically pleasing and performant User Interface
+- 🌱 I’m currently learning fundamentals of building nice aesthetically pleasing and performant User Interfaces
 - 📫 Reach me on my mail : abhishek.sharma1@fashinza.com
 
 <!---
